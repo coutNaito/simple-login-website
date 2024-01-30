@@ -1,0 +1,10 @@
+body{
+    justify-content: center;
+    align-items: center;
+}
+.bg-primary{
+    background-color: whitesmoke !important;
+    color : black !important;
+    padding: 20px !important;
+    /*text-align: center !important;*/
+}
